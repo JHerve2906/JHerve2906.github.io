@@ -25,5 +25,5 @@ navbar:
       href: https://github.com/YOURGITHUB       # CHANGE HERE 
 output:
   html_document:
-    theme: jekyll-theme-clean-blog
+    theme: readable
     highlight: textmate
